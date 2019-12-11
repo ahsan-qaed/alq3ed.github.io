@@ -1,0 +1,13 @@
+Package: com.ahsan.nimbus
+Name: Nimbus Theme
+Version: 1.0
+Architecture: iphoneos-arm
+Filename: ./debs/com.wolves.nimbus_1.0_iphoneos-arm.deb
+Size: 575322
+MD5sum: 2695761f2f17f0143debb8f0a4e5a736
+SHA1: 184c2098e908996333d6d420769b7d9d0754f40f
+SHA256: 1a005efb448c2cc17dcdfa3ce6410156977f2d2eef16af363b51fc6af9214beb
+Section: Themes
+Description: A simple colorful theme
+Maintainer: Ahsan
+Author: BasicallyJoel
